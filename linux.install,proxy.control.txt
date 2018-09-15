@@ -1,0 +1,13 @@
+intel代理服务器
+https://child-prc.intel.com:913
+
+重新安装linux系统后的一些操作：
+Ubuntu
+sudo apt-get update
+sudo apt-get install openssh-server"  --->回车-->输入y-->安装完成
+
+
+#------------------------------------------------------------------
+学习xv6操作系统
+
+

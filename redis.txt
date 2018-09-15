@@ -1,0 +1,9 @@
+redis 开源下载地址：
+Redis Opensource:
+http://download.redis.io/releases/
+
+Intel 公司内部
+https://github.intel.com/repositories
+
+cce组，
+https://github.intel.com/DEG-CCE-SE
